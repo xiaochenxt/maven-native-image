@@ -1,0 +1,10 @@
+[
+  {
+    "latest" : true,
+    "metadata-version" : "1.6.2",
+    "tested-versions" : [
+      "1.6.2"
+    ],
+    "description" : "easy-captcha"
+  }
+]
